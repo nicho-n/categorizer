@@ -1,6 +1,5 @@
 # Categorizer
-_Very responsive!_<br><br>
-The myspace-style social media site with categories - connecting people with esoteric interests.
+Myspace-style social media site with categories - connecting people with esoteric interests.
 
 ## Build
 `npm run build`
@@ -12,13 +11,11 @@ The myspace-style social media site with categories - connecting people with eso
 `http://localhost:3000`
 
 ## Notes
-less file needs to be compiled with `npm build` to see correct styling
+less/css file needs to be compiled with `npm build` 
 
 # Screenshots!
-Grid represents profiles - resizes to fit desktop/mobile devices.<br><br>
-*Desktop:* <br>
-<img src="https://i.ibb.co/5k7V8Zq/Screen-Shot-2022-01-08-at-8-18-16-PM.png">
-
+Grid resizes resizes to fit desktop/mobile devices.<br><br>
+<img src="https://i.ibb.co/PFw0PYX/Screen-Shot-2022-01-09-at-1-44-38-AM.png">
 
 # W.I.P!
 Thank you! Check back later.
