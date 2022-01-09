@@ -4,7 +4,7 @@
     text-align: center;
     .logo {
         margin-left: 10px;
-    }    
+    }
     .search-bar {
         vertical-align: top;
         margin-top: 17px;
@@ -15,17 +15,28 @@
     button {
         height: 50px;
         width: 100px;
-        vertical-align: top;
+        margin-left: -100px;
         margin-top: 13px;
-        margin-left: 16px;
+        float: right;
+        vertical-align: top;
         font-size: 15px;
         background-color: cyan;
         font-family: monospace;
+        border: 1px solid grey;
     }
+}
+
+#top-bar > .search-container {
+    display: block;
+    white-space: nowrap;
 }
 
 html {
     background-color: #020202;
+}
+
+body {
+    min-width: 650px;
 }
 
 .grid_element {
