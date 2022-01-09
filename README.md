@@ -15,7 +15,7 @@ less/css file needs to be compiled with `npm build`
 
 # Screenshots!
 Grid resizes resizes to fit desktop/mobile devices.<br><br>
-<img src="https://i.ibb.co/PFw0PYX/Screen-Shot-2022-01-09-at-1-44-38-AM.png">
+<img src="https://i.ibb.co/c3GfQ0c/Screen-Shot-2022-01-09-at-1-50-45-AM.png">
 
 # W.I.P!
 Thank you! Check back later.
