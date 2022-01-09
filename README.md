@@ -21,4 +21,4 @@ Grid represents profiles - resizes to fit desktop/mobile devices.<br><br>
 
 
 # W.I.P!
-Thank you, come again.
+Thank you! Come back later.
