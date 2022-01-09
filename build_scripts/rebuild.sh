@@ -1,1 +1,1 @@
-lessc styles.less compiled/styles.css
+lessc views/styles.less views/compiled/styles.css
