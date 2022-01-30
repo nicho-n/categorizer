@@ -1,11 +1,12 @@
 <html>
 <head>
-    <link rel="stylesheet" href="/compiled/styles.css">
     <title>Categorizer</title>
+    <link rel="stylesheet" href="/compiled/styles.css">
+    <%- include('createProfilePage') %>
 </head>
 <body>
     <div id="top-bar">
-        <button><span>Create Profile!</span></button>
+        <button id="create-profile-button"><span>Create Profile!</span></button>
         <img class="logo" src="resources/logo-white.png"></img>
         <div class="search-container">
             <input type="text" placeholder=" Search for an interest.. (reading, hiking, LGBTQ, liberal, conservative, geocaching, etc)" class="search-bar">
@@ -32,4 +33,5 @@
         </div>
     </div>
 </body>
+<script src="homePageController.js"></script>
 </html>
