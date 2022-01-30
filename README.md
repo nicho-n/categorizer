@@ -1,10 +1,7 @@
 # Categorizer
 Myspace-style social media site with categories - connecting people with esoteric interests.
 
-## Build
-`npm run build`
-
-## Deploy 
+## Build and run
 `npm run start`
 
 ## Entry

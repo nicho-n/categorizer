@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "sh build_scripts/rebuild_css.sh",
     "start": "sh build_scripts/rebuild_css.sh && node index.js"
   },
   "author": "Nick Nowak",
