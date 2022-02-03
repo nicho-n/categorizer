@@ -2,13 +2,10 @@
 Myspace-style social media site with categories - connecting people with esoteric interests.
 
 ## Build and run
-`npm run start`
+`npm start`
 
 ## Entry
 `http://localhost:3000`
-
-## Notes
-less/css file needs to be compiled with `npm build` 
 
 # Screenshots!
 Grid resizes to fit desktop/mobile devices.<br><br>
