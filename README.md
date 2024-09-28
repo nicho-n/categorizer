@@ -1,6 +1,8 @@
 # Categorizer
 Myspace-style social media site with categories - connecting people with esoteric interests.
 
+Currently, this is basically some uniquely built CSS which provides infinitely scrolling profiles.
+
 ## Build and run
 `npm start`
 
